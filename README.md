@@ -1,1 +1,1 @@
-# course_project
+Будущий проект
